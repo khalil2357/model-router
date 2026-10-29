@@ -1,0 +1,9 @@
+{
+  "name": "multi-model-router",
+  "label": "Model Router",
+  "description": "Unlimited Antigravity & Claude accounts manager with auto-switching & priority queue.",
+  "icon": "Layers",
+  "version": "1.0.0",
+  "tab": { "hidden": true },
+  "api": "plugin_api.py"
+}

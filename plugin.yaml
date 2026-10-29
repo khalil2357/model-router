@@ -1,0 +1,4 @@
+name: multi-model-router
+version: 1.0.0
+description: "Unlimited Antigravity & Claude accounts manager with auto proxies, priority list routing, and model failover."
+author: local
